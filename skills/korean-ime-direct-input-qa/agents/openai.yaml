@@ -1,0 +1,4 @@
+interface:
+  display_name: "한국어 IME 직접 입력 QA"
+  short_description: "Gboard 한글 조합 입력 경로를 검증하고 자모 분리를 차단합니다"
+  default_prompt: "Use $korean-ime-direct-input-qa to run direct Korean Gboard input QA and verify NFC Hangul output."
